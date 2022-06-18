@@ -48,3 +48,4 @@ Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UC
 
 # Donate
 [![BOOSTY]]( https://boosty.to/devboys)
+[![PATREON]](https://www.patreon.com/devboys)
