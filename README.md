@@ -7,9 +7,9 @@ Demo Image:
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/redianmarku/Django-Twitter-Clone.git```.
+1. Git Clone the project with: ```git clone https://github.com/murtazoxurramov/twitter-clone.git```.
 
-2. Move to the base directory: ```cd Django-Twitter-Clone```
+2. Move to the base directory: ```cd twitter-clone```
 
 3. Create a new python enveronment with: ```python -m venv env```.
 
@@ -44,7 +44,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCO5WiowKFnEw17AOk008WOQ" target="_blank">Top Notch Programmer</a>.
+Please Subscribe my YouTube Channel: <a href="https://www.youtube.com/channel/UCRzwgLpWiraAvDInpdhv7Aw" target="_blank">Developer Boys</a>.
 
 # Donate
-[![paypal](https://mk0mightycausebxdggx.kinstacdn.com/wp-content/uploads/2019/06/paypal-donate-button-high-quality-png.png)](https://www.paypal.me/redidev)
+[![BOOSTY]]( https://boosty.to/devboys)
