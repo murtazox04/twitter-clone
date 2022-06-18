@@ -34,7 +34,6 @@ pep517==0.8.2
 Pillow==8.1.1
 progress==1.5
 protobuf==3.10.0
-psycopg2==2.8.6
 pyinstaller==4.0
 pyinstaller-hooks-contrib==2020.9
 pyparsing==2.4.6
@@ -53,4 +52,4 @@ whitenoise==5.2.0
 zope.event==4.5.0
 zope.interface==5.1.2
 djangorestframework==3.13.1
-postgresql==1.0.6
+psycopg2==2.9.3
